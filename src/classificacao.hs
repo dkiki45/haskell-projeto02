@@ -11,7 +11,7 @@ module Classificacao
     ) where
 
 import Tipos 
-import Data.List(foldl', sortBy)
+import Data.List(sortBy)
 import Data.Ord(comparing, Down(..))
 
 -- descricao pontuacao
