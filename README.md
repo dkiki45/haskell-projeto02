@@ -1,6 +1,6 @@
 # PjBL2 - Tabela de Classificação (Haskell)
 
-Projeto focado em programação funcional livre de recursão explícita, uso de funções totais (sem exceções em tempo de execução) e validação de texto via mônadas (Either).
+**Grupo 7**
 
 **Estrutura principal:**
 * **`src/Main.hs`**: Executa a demonstração visual da tabela, estatísticas e tratamento de erros.
