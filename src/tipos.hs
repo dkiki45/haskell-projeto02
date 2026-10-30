@@ -49,7 +49,7 @@ resultadoPara t p
                                     GT -> Vitoria
                                     EQ -> Empate
                                     LT -> Derrota
-    | t == visitante p = Just $ case compare (golsMandante p) (golsVisitante p) of
+    | t == visitante p = Just $ case compare (golsVisitante p) (golsMandante p) of
                                     GT -> Vitoria
                                     EQ -> Empate
                                     LT -> Derrota
